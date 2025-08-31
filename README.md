@@ -9,12 +9,6 @@ It will redirect the traffic light according to the nuber of vehicles and in fut
 - Integration with IoT components like Arduino UNO and LEDs to control traffic lights based on detected vehicle presence.
 - Two-lane traffic monitoring to identify congestion and optimize traffic flow.
 
-## Project Highlights
-- Developed as part of #NIETIDEAS2023, a Tech-based Project Exhibition organized by the AIML Department.
-- Over 190 teams participated, showcasing innovative projects in AI and ML technology.
-- Recognized as one of the top 11 finalists in the contest, highlighting the project's effectiveness and innovation.
-- Collaborative effort with dedicated contributions from team members, including Arpit Rai.
-
 ## How It Works
 1. The system captures live traffic footage using a camera.
 2. YOLOv5 model detects vehicles in the footage and tracks their movements.
@@ -27,13 +21,3 @@ It will redirect the traffic light according to the nuber of vehicles and in fut
 2. Connect IoT components (Arduino UNO, LEDs) for traffic light control.
 3. Run the Python script `smart_traffic_light.py` to initiate the Smart Traffic Light System.
 4. Monitor the system's performance and traffic management through the output display.
-
-## Contributors
-Arpit Rai
-
-## Acknowledgments
-We would like to express our gratitude to Noida Institute of Engineering and Technology for organizing #NIETIDEAS2023 and providing a platform to showcase our project. Special thanks to our mentors and advisors for their guidance and support throughout the project development process.
-
----
-
-Feel free to customize and expand this README file as needed, adding more details or sections as per your project's requirements and specifications.

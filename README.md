@@ -1,4 +1,4 @@
-# Smart Traffic Light System
+# Smart Traffic Management System
 
 ## Overview
 This project aims to address traffic congestion issues in India by implementing an AI-based Smart Traffic Light System. The system utilizes computer vision techniques, particularly object detection using YOLOv5, along with IoT components such as LEDs and Arduino UNO to manage traffic flow effectively.
